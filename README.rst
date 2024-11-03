@@ -5,17 +5,15 @@ Repozitorij za kontrole obdelave SAS v Python-u (Faze 1a, 2, 3, 4)
 .. toctree::
    :maxdepth: 2
 
-   Dokumentacija/index.rst
-   Skripte/index.rst
-   Rezultati/index.rst
+   dokumentacija.rst
+   skripte.rst
+   rezultati.rst
 
 Struktura
 ================
 
 
 | .
-| ├─── ``readme.html``: berljive info o repozitoriju
-| │
 | ├─── ``requirements.txt``: info o uporabljeni programski opremi
 | │
 | ├─── ``Dokumentacija``: info o sintaksi in Alenkini printscreen-i
